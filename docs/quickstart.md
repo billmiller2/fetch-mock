@@ -1,9 +1,9 @@
-- [Introduction](/fetch-mock)
+- [Introduction](/docs)
 - Quickstart
-- [Installation and usage ](/fetch-mock/installation)
-- [API documentation](/fetch-mock/api)
-- [Troubleshooting](/fetch-mock/troubleshooting)
-- [Examples](/fetch-mock/examples)
+- [Installation and usage ](/docs/installation.md)
+- [API documentation](/docs/api.md)
+- [Troubleshooting](/docs/troubleshooting.md)
+- [Examples](/docs/examples.md)
 
 # Quickstart
 
